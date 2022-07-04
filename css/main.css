@@ -104,6 +104,7 @@ body{
   display: flex;
   align-items: center;
   margin: 0;
+  padding: 0;
   list-style: none;
 }
 
@@ -166,8 +167,8 @@ body{
 .hero-bg-img{
   position: absolute;
   z-index: 1;
-  top: calc(50% - 401px);
-  left: calc(50% + 122px);
+  top: calc(50% - 446px);
+  left: calc(50% + 96px);
 }
 
 
