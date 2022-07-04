@@ -178,7 +178,7 @@ body{
   padding-bottom: 170px;
   background-color: #fafafa;
   background-image: url("../images/hero-bg-img.svg");
-  background-position: calc(50% + 492px) calc(50% - 47px);
+  background-position: calc(50% + 550px) calc(50% - 47px);
   background-size:1371px 956px;
   background-repeat: no-repeat;
 }
