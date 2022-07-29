@@ -513,6 +513,16 @@ body{
 
 @media only screen and (min-width:375px){
 
+
+
+  .main-link--ft{
+    max-width: 136px;
+    padding: 7px 32px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 26px;
+  }
+
   .hero{
     background-position: calc(50% + 40px) calc(50% - 240px);
   }
