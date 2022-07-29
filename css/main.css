@@ -513,7 +513,9 @@ body{
 
 @media only screen and (min-width:375px){
 
-
+  .ft-info-linkbox{
+    max-width: 160px;
+  }
 
   .main-link--ft{
     max-width: 136px;
@@ -1077,6 +1079,10 @@ body{
   }
 
   @media only screen and (min-width: 1025px){
+
+    .main-link--ft{
+      max-width: 170px;
+    }
 
     .hero{
       padding-top: 230px;
